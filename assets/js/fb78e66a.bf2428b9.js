@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp_security_labs=self.webpackChunkapp_security_labs||[]).push([[776],{8475:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/systems-security-labs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
